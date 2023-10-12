@@ -39,10 +39,10 @@
 1. Open the app's settings
 2. Select "Custom" under "Interface theme"
 3. In the "All colors" text box at the bottom, paste one of the following palette
-   - **Latte**: `#eff1f5,#4c4f69,#e6e9ef,#5c5f77,#7287fd,#ffffff`
-   - **Frappé**: `#303446,#c6d0f5,#292c3c,#b5bfe2,#babbf1,#000000`
-   - **Macchiato**: `#24273a,#cad3f5,#1e2030,#b8c0e0,#b7bdf8,#000000`
-   - **Mocha**: `#1e1e2e,#cdd6f4,#181825,#bac2de,#b4befe,#000000`
+   - **Latte**: `#eff1f5,#4c4f69,#e6e9ef,#5c5f77,#7287fd,#dce0e8`
+   - **Frappé**: `#303446,#c6d0f5,#292c3c,#b5bfe2,#babbf1,#232634`
+   - **Macchiato**: `#24273a,#cad3f5,#1e2030,#b8c0e0,#b7bdf8,#181926`
+   - **Mocha**: `#1e1e2e,#cdd6f4,#181825,#bac2de,#b4befe,#11111b`
 
 ## 🙋 FAQ
 
